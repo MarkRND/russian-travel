@@ -10,14 +10,3 @@
   }
 }
 
-@media screen and (max-width: 768px) {
-  .lead {
-    margin: 48x auto 0;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .lead {
-    margin: 48px auto 0;
-  }
-}
