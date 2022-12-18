@@ -1,11 +1,14 @@
 .place__link {
+  margin: 12px 0 0 0;
+  padding: 0;
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  text-decoration-line: underline;
   color: #fff;
+  border-bottom: 1px solid #fff;
+  text-decoration-line: none;
 }
 
 .place__link:hover {

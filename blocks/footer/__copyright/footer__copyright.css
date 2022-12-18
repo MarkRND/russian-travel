@@ -6,12 +6,10 @@
   font-size: 14px;
   line-height: 16px;
   display: flex;
-  align-items: center;
 }
 
 @media screen and (max-width: 612px) {
   .footer__copyright {
-    font-size: 14px;
     line-height: 14px;
     margin-top: 48px;
   }

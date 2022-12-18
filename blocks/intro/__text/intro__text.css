@@ -8,3 +8,17 @@
   line-height: 163%;
   color: #fff;
 }
+
+@media screen and (max-width: 768px) {
+  .intro__text {
+    margin: 37px 0 0;
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__text {
+    margin: 40px 0 0;
+
+  }
+}

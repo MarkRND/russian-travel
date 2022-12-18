@@ -1,0 +1,29 @@
+.place__content {
+  margin: 0 16px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__content {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__content {
+    max-width: 288px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .place__content {
+    max-width: 602px;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__content {
+    max-width: 320px;
+    margin: 0 16px;
+  }
+}
