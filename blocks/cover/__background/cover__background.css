@@ -6,12 +6,11 @@
   min-height: 740px;
   background-image: url(../../../images/cover-trains.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   justify-content: center;
   text-decoration: none;
   color: white;
-  object-fit: cover;
 }
 
 .cover__background::before {
