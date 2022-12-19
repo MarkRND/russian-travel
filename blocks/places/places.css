@@ -3,19 +3,22 @@
   margin: 92px auto 0;
   display: grid;
   gap: 80px 0;
-  
 }
 
 @media screen and (max-width: 1024px) {
   .places {
     max-width: 928px;
-    
+  }
+}
+
+@media screen and (max-width: 976px) {
+  .places {
+    margin: 88px 24px 0;
   }
 }
 
 @media screen and (max-width: 935px) {
   .places {
-    margin: 88px 24px 0;
     gap: 73px 0;
   }
 }
@@ -23,8 +26,6 @@
 @media screen and (max-width: 768px) {
   .places {
     max-width: 720px;
-    /* margin: 87px 24px 0; */
-   
   }
 }
 
